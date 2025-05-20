@@ -1,0 +1,257 @@
+.about-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about-page .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1750px;
+  position: relative;
+}
+
+.about-page .overlap-group {
+  position: absolute;
+  width: 1920px;
+  height: 156px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.about-page .navbar {
+  width: 1500px;
+  height: 156px;
+  left: 210px;
+  position: absolute;
+  top: 0;
+}
+
+.about-page .text-wrapper {
+  position: absolute;
+  width: 324px;
+  height: 72px;
+  top: 38px;
+  left: 210px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-page .nav-btns {
+  position: absolute;
+  width: 1097px;
+  height: 24px;
+  top: 63px;
+  left: 617px;
+}
+
+.about-page .navbar-2 {
+  width: 624px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.about-page .text-wrapper-2 {
+  left: 0;
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-page .text-wrapper-3 {
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  left: 164px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-page .text-wrapper-4 {
+  left: 329px;
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-page .text-wrapper-5 {
+  left: 493px;
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-page .language-btn {
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  top: 0;
+  left: 1009px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000db;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-page .language-btn-2 {
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  top: 0;
+  left: 1051px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-page .overlap {
+  position: absolute;
+  width: 730px;
+  height: 414px;
+  top: 385px;
+  left: 210px;
+  background-color: #d9d9d9;
+}
+
+.about-page .text-wrapper-6 {
+  top: 104px;
+  position: absolute;
+  width: 379px;
+  height: 162px;
+  left: 175px;
+  font-family: "Geist Mono-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-page .div-wrapper {
+  position: absolute;
+  width: 730px;
+  height: 414px;
+  top: 896px;
+  left: 980px;
+  background-color: #d9d9d9;
+}
+
+.about-page .text-wrapper-7 {
+  top: 125px;
+  position: absolute;
+  width: 379px;
+  height: 162px;
+  left: 175px;
+  font-family: "Geist Mono-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-page .p {
+  position: absolute;
+  width: 547px;
+  top: 384px;
+  left: 1000px;
+  font-family: "Gabarito-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-page .text-wrapper-8 {
+  position: absolute;
+  width: 547px;
+  top: 895px;
+  left: 373px;
+  font-family: "Gabarito-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-page .overlap-2 {
+  position: absolute;
+  width: 1920px;
+  height: 152px;
+  top: 1598px;
+  left: 0;
+  background-image: url(./img/vector.svg);
+  background-size: 100% 100%;
+}
+
+.about-page .text-wrapper-9 {
+  position: absolute;
+  width: 1500px;
+  height: 39px;
+  top: 83px;
+  left: 210px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}

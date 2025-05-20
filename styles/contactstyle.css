@@ -1,0 +1,263 @@
+.contract-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contract-page .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+}
+
+.contract-page .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 162px;
+  top: -6px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contract-page .navbar {
+  position: absolute;
+  width: 1500px;
+  height: 156px;
+  top: 6px;
+  left: 210px;
+}
+
+.contract-page .nav-btns {
+  position: absolute;
+  width: 1097px;
+  height: 24px;
+  top: 69px;
+  left: 617px;
+}
+
+.contract-page .navbar-2 {
+  position: absolute;
+  width: 624px;
+  height: 24px;
+  top: 0;
+  left: 0;
+}
+
+.contract-page .text-wrapper {
+  left: 0;
+  color: #00000066;
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contract-page .text-wrapper-2 {
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  left: 164px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contract-page .text-wrapper-3 {
+  left: 329px;
+  color: #00000066;
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contract-page .text-wrapper-4 {
+  left: 493px;
+  color: #000000;
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contract-page .language-btn {
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  top: 0;
+  left: 1009px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000db;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contract-page .language-btn-2 {
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  top: 0;
+  left: 1051px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contract-page .text-wrapper-5 {
+  position: absolute;
+  width: 324px;
+  height: 72px;
+  top: 39px;
+  left: 210px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contract-page .footer {
+  position: absolute;
+  width: 1920px;
+  height: 483px;
+  top: 3837px;
+  left: 0;
+  background-color: #d9d9d9b2;
+}
+
+.contract-page .work-schedule {
+  position: absolute;
+  width: 336px;
+  top: 257px;
+  left: 222px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contract-page .overlap-group {
+  position: absolute;
+  width: 427px;
+  height: 338px;
+  top: 267px;
+  left: 1412px;
+}
+
+.contract-page .rectangle {
+  position: absolute;
+  width: 427px;
+  height: 337px;
+  top: 1px;
+  left: 0;
+  background-color: #d9d9d94c;
+}
+
+.contract-page .header-advantages {
+  position: absolute;
+  width: 427px;
+  height: 337px;
+  top: 0;
+  left: 0;
+  font-family: "Gabarito-Bold", Helvetica;
+  font-weight: 700;
+  color: #0c0c0c;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contract-page .p {
+  position: absolute;
+  width: 262px;
+  top: 195px;
+  left: 1412px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contract-page .telephone {
+  position: absolute;
+  width: 482px;
+  top: 257px;
+  left: 679px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contract-page .div-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 152px;
+  top: 928px;
+  left: 0;
+  background-image: url(./img/vector.svg);
+  background-size: 100% 100%;
+}
+
+.contract-page .text-wrapper-6 {
+  position: absolute;
+  width: 1500px;
+  height: 39px;
+  top: 83px;
+  left: 210px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}

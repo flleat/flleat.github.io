@@ -1,0 +1,357 @@
+.order-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.order-page .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 3000px;
+  position: relative;
+}
+
+.order-page .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 156px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.order-page .nav-btns {
+  position: absolute;
+  width: 1097px;
+  height: 24px;
+  top: 63px;
+  left: 617px;
+}
+
+.order-page .navbar {
+  position: absolute;
+  width: 624px;
+  height: 24px;
+  top: 0;
+  left: 0;
+}
+
+.order-page .text-wrapper {
+  left: 0;
+  color: #00000066;
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.order-page .text-wrapper-2 {
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  left: 164px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.order-page .text-wrapper-3 {
+  left: 329px;
+  color: #000000;
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.order-page .text-wrapper-4 {
+  left: 493px;
+  color: #00000066;
+  position: absolute;
+  width: 123px;
+  height: 24px;
+  top: 0;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.order-page .language-btn {
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  top: 0;
+  left: 1009px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000db;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.order-page .language-btn-2 {
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  top: 0;
+  left: 1051px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.order-page .text-wrapper-5 {
+  position: absolute;
+  width: 324px;
+  height: 72px;
+  top: 30px;
+  left: 210px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.order-page .footer {
+  position: absolute;
+  width: 1920px;
+  height: 483px;
+  top: 3837px;
+  left: 0;
+  background-color: #d9d9d9b2;
+}
+
+.order-page .text-on-a-path {
+  position: absolute;
+  width: 1500px;
+  height: 162px;
+  top: -6px;
+  left: -3670px;
+}
+
+.order-page .searchbar {
+  top: 319px;
+  left: 210px;
+  position: absolute;
+  width: 1474px;
+  height: 64px;
+}
+
+.order-page .overlap-group {
+  position: relative;
+  height: 64px;
+}
+
+.order-page .overlap-group-wrapper {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 1474px;
+  height: 64px;
+}
+
+.order-page .overlap-group-2 {
+  position: relative;
+  width: 1472px;
+  height: 64px;
+  background-color: #8585854a;
+  border-radius: 5px;
+}
+
+.order-page .rectangle {
+  width: 1374px;
+  top: 4px;
+  left: 8px;
+  position: absolute;
+  height: 52px;
+}
+
+.order-page .overlap-2 {
+  position: absolute;
+  width: 81px;
+  height: 52px;
+  top: 4px;
+  left: 1385px;
+  background-color: #d9d9d9;
+}
+
+.order-page .rectangle-2 {
+  width: 81px;
+  top: 0;
+  left: 0;
+  background-color: #cacaca;
+  border-radius: 3px;
+  position: absolute;
+  height: 52px;
+}
+
+.order-page .text-wrapper-6 {
+  position: absolute;
+  width: 66px;
+  height: 34px;
+  top: 9px;
+  left: 7px;
+  font-family: "Gabarito-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.order-page .text-wrapper-7 {
+  position: absolute;
+  width: 497px;
+  height: 41px;
+  top: 11px;
+  left: 15px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.order-page .p {
+  position: absolute;
+  width: 608px;
+  height: 47px;
+  top: 271px;
+  left: 211px;
+  font-family: "Geist Mono-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.order-page .header-advantages-wrapper {
+  position: absolute;
+  width: 1596px;
+  height: 1006px;
+  top: 498px;
+  left: 114px;
+  background-image: url(./img/rectangle-14.svg);
+  background-size: 100% 100%;
+}
+
+.order-page .header-advantages {
+  position: absolute;
+  width: 1026px;
+  height: 264px;
+  top: 370px;
+  left: 333px;
+  font-family: "Gabarito-Bold", Helvetica;
+  font-weight: 700;
+  color: #0c0c0c;
+  font-size: 135px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.order-page .div-wrapper {
+  position: absolute;
+  width: 1500px;
+  height: 401px;
+  top: 1640px;
+  left: 179px;
+  background-color: #d9d9d999;
+}
+
+.order-page .text-wrapper-8 {
+  position: absolute;
+  width: 379px;
+  height: 162px;
+  top: 119px;
+  left: 591px;
+  font-family: "Geist Mono-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.order-page .overlap-3 {
+  position: absolute;
+  width: 1500px;
+  height: 401px;
+  top: 2151px;
+  left: 179px;
+  background-color: #d9d9d999;
+}
+
+.order-page .overlap-4 {
+  position: absolute;
+  width: 1920px;
+  height: 152px;
+  top: 2848px;
+  left: 0;
+  background-image: url(./img/vector.svg);
+  background-size: 100% 100%;
+}
+
+.order-page .text-wrapper-9 {
+  position: absolute;
+  width: 1500px;
+  height: 39px;
+  top: 83px;
+  left: 210px;
+  font-family: "Geist Mono-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.order-page .component {
+  position: absolute;
+  width: 101px;
+  height: 101px;
+  top: 2593px;
+  left: 1659px;
+}
